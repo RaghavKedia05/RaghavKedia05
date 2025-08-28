@@ -17,7 +17,7 @@ The relentless pursuit of becoming the best coder I can be!<br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,c,js,python,git,html,css)](https://skillicons.dev)
 <br>
 
-**🌱 I Am Looking To**
+## **🌱 I Am Looking To**
 
 Dive deeper into open-source contributions<br>
 Collaborate with other developers on meaningful projects<br>
