@@ -2,7 +2,10 @@
 
 ![Alt text](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
-I’m **RAGHAV KEDIA**, a passionate developer driven by curiosity for technology and innovation. My primary interests lie in **Data Science**, **Machine Learning**, and **Web Development**, where I enjoy solving real-world problems and creating impactful solutions. ️<br>
+I’m **RAGHAV KEDIA**, a tech enthusiast exploring the world of **Data Science**, **Machine Learning**, and **Web Development**. ️<br>
+💻 Love solving problems and building impactful projects.<br>
+🌱 Always exploring new technologies and learning by doing.<br>
+🔗 Interested in open source and collaborative coding.<br>
 
 **What drives me?**
 
