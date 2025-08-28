@@ -2,7 +2,7 @@
 
 ![Alt text](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
-I'm **LAKSHYA JAIN** a passionate  second-year student on a mission to become a top-notch coder 😎. I'm constantly learning and refining my skills, with a deep interest in development. ️<br>
+I'm **RAGHAV KEDIA** a passionate  third-year student on a mission to become a top-notch coder 😎. I'm constantly learning and refining my skills, with a deep interest in development. ️<br>
 
 **What drives me?**
 
@@ -11,7 +11,7 @@ The collaborative spirit of open source, where I can contribute to projects that
 The relentless pursuit of becoming the best coder I can be!<br>
 
 **Current areas of focus:**<br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,js,python,react,nodejs,express,gcp,jquery,npm,git,html,css,bootstrap,tailwind,mongodb,nextjs,postman,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,js,python,git,html,css)](https://skillicons.dev)
 <br>
 **I am Looking to:**
 
