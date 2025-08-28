@@ -17,11 +17,11 @@ I’m **RAGHAV KEDIA**, a tech enthusiast exploring the world of **Data Science*
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,c,js,python,git,html,css)](https://skillicons.dev)
 <br>
 
-**🚀 Currently Exploring**
+**🎯 My Goals**
 
-Dive deeper into open-source contributions<br>
-Collaborate with other developers on meaningful projects<br>
-Continuously expand my knowledge and skillset<br>
+-Dive deeper into open-source contributions<br>
+-Collaborate with other developers on meaningful projects<br>
+-Continuously expand my knowledge and skillset<br>
 
 **🤝 Feel Free To**
 
