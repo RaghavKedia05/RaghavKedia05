@@ -9,15 +9,15 @@ I’m **RAGHAV KEDIA**, a tech enthusiast exploring the world of **Data Science*
 
 **What drives me?**
 
-The thrill of tackling challenging problems and crafting creative solutions.<br>
-The collaborative spirit of open source, where I can contribute to projects that make a difference.<br>
-The relentless pursuit of becoming the best coder I can be!<br>
+-The thrill of tackling challenging problems and crafting creative solutions.<br>
+-The collaborative spirit of open source, where I can contribute to projects that make a difference.<br>
+-The relentless pursuit of becoming the best coder I can be!<br>
 
 **Current areas of focus:**<br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,c,js,python,git,html,css)](https://skillicons.dev)
 <br>
 
-## **🌱 I Am Looking To**
+**🚀 Currently Exploring**
 
 Dive deeper into open-source contributions<br>
 Collaborate with other developers on meaningful projects<br>
@@ -28,7 +28,7 @@ Continuously expand my knowledge and skillset<br>
 ⭐ Check out my repositories<br>
 📬 Reach out if you have projects or opportunities that align with my interests<br>
 <!--
-**lakshya1333/lakshya1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RaghavKedia05\RaghavKedia05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
