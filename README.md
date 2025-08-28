@@ -19,14 +19,14 @@ The relentless pursuit of becoming the best coder I can be!<br>
 
 **🌱 I Am Looking To**
 
-Dive deeper into open-source contributions
-Collaborate with other developers on meaningful projects
-Continuously expand my knowledge and skillset
+Dive deeper into open-source contributions<br>
+Collaborate with other developers on meaningful projects<br>
+Continuously expand my knowledge and skillset<br>
 
 **🤝 Feel Free To**
 
-⭐ Check out my repositories
-📬 Reach out if you have projects or opportunities that align with my interests
+⭐ Check out my repositories<br>
+📬 Reach out if you have projects or opportunities that align with my interests<br>
 <!--
 **lakshya1333/lakshya1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
