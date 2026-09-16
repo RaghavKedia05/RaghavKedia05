@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=AI+%2B+Full+Stack+Engineer;Building+Intelligent+Products+with+AI+and+Software+Engineering;Data+Science+Engineering+Student+at+MIT+Manipal;Open+to+Software+Engineering+and+AI%2FML+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI%2FML+%7C+Data+Analytics;Building+Intelligent+Products+with+AI+%26+Software;Data+Science+Engineering+Student+at+MIT+Manipal;Turning+Ideas+into+Scalable+Applications" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MIT%20Manipal-B.Tech%20Data%20Science%20Engineering-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Graduation-2027-6C63FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CGPA-7.98-7B68EE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Manipal%2C%20India-5D3FD3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/India-Student-5D3FD3?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raghav-kedia-">
+  <a href="https://www.linkedin.com/in/raghav-kedia-/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:raghavkedia2205@gmail.com">
@@ -33,239 +33,282 @@
 
 ---
 
-# About
+# 👨‍💻 About Me
 
-I am a **Data Science Engineering undergraduate at MIT Manipal** passionate about building intelligent products that combine **Artificial Intelligence, Machine Learning, and Full Stack Engineering**.
+I’m a **Data Science Engineering undergraduate at MIT Manipal**, passionate about building software and intelligent systems that solve real-world problems.
 
-My experience spans software development, data analytics, backend systems, SaaS platforms, and AI-powered applications. I enjoy transforming ideas into scalable products—from designing user experiences and backend architectures to integrating machine learning capabilities into real-world systems.
+My interests sit at the intersection of **Software Engineering, Artificial Intelligence, Machine Learning, and Data Analytics**. I enjoy taking an idea from a problem statement to a working product — from backend architecture and APIs to machine learning models, dashboards, and user-facing applications.
 
-Currently, I am focused on developing production-grade SaaS applications, AI-driven systems, and scalable web platforms while continuously strengthening my expertise in software engineering, system design, cloud technologies, and modern AI frameworks.
+I have hands-on experience across **software development, SaaS applications, data analytics, machine learning, and AI-powered applications**, with a strong focus on learning by building.
 
-### Open To
+### 🚀 What I’m Interested In
 
-- Software Engineering Internships
-- AI / ML Engineering Roles
-- Full Stack Development Opportunities
-- Open Source Collaborations
-- Startup Engineering Roles
+* 💻 Software Engineering & Backend Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Analytics & Business Intelligence
+* 🌐 Full Stack Development
+* 🏗️ Scalable Systems & System Design
+* ☁️ Cloud & Modern Development Tools
+* 🔓 Open Source & Collaborative Development
+
+### 🎯 Currently Working On
+
+* Strengthening **Data Structures & Algorithms**
+* Building **AI-powered applications**
+* Learning **System Design & scalable architectures**
+* Exploring **LLMs, Agentic AI & MLOps**
+* Building projects that combine **data, AI and software engineering**
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,javascript,sql" />
 </p>
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
-### Backend & Databases
+### Backend & Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=php,codeigniter,fastapi,flask,nodejs,express" />
 </p>
 
-### Cloud, DevOps & Tooling
+### AI / ML & Data
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
 </p>
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Advanced | Predictive Modeling, Classification, Reinforcement Learning |
-| NLP | Advanced | Transformers, Translation, Summarization |
-| Full Stack Development | Advanced | SaaS Platforms, APIs, Authentication Systems |
-| Data Analytics | Advanced | Visualization, Reporting, Business Insights |
-| Cloud & Deployment | Intermediate | Streamlit, AWS Fundamentals |
-
----
-
-# Featured Projects
+# 🚀 Featured Projects
 
 <details>
-<summary><b>AI Trading Agent</b></summary>
+<summary><b>🤖 AI Stock Recommendation Agent</b></summary>
 
 ### Overview
 
-An AI-powered stock analysis platform that utilizes live market data from Yahoo Finance to evaluate S&P 500 stocks and generate actionable Buy, Sell, or Hold recommendations.
+An AI-powered stock analysis application that processes market data and generates **Buy, Sell, or Hold** recommendations to assist users in evaluating stocks.
 
-### Architecture
+### Tech Stack
 
-| Metric | Details |
-|----------|----------|
-| Stack | Python, Reinforcement Learning, Streamlit, Jupyter Notebook |
-| Scale | Live S&P 500 Market Data |
-| Performance | Real-time stock analysis |
-| Security | Secure API-driven data retrieval |
-| Impact | Automated investment decision support |
-| Repository | https://github.com/RaghavKedia05/Ai-Trading-Agent-3.0 |
+**Python • FastAPI • React • Scikit-Learn • Pandas • NumPy • yFinance**
 
 ### Highlights
 
-- Uses live market data through Yahoo Finance APIs.
-- Applies reinforcement learning techniques for trading strategy evaluation.
-- Generates real-time Buy/Sell/Hold recommendations.
-- Interactive Streamlit dashboard for investor insights.
-- Modular architecture for future model enhancements.
+* 📈 Retrieves market data using Yahoo Finance.
+* 🤖 Applies machine learning techniques for stock analysis.
+* 🧠 Generates Buy / Sell / Hold recommendations.
+* ⚡ FastAPI backend for serving analytical functionality.
+* 🌐 React-based interface for interacting with the system.
+* 📊 Uses financial and statistical features for model-driven analysis.
+
+**Repository:**
+https://github.com/RaghavKedia05/Ai-Trading-Agent-3.0
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>Multi-Tenant HRMS SaaS Platform</b></summary>
+<summary><b>🏢 GICHRMS — Multi-Tenant HRMS SaaS</b></summary>
 
 ### Overview
 
-A scalable Human Resource Management System designed for organizations to manage employees, payroll, attendance, sales operations, and workforce analytics through a unified SaaS platform.
+A multi-tenant **Human Resource Management System** developed during my Software Development Internship, designed to manage recruitment, employees, attendance, payroll, and business operations.
 
-### Architecture
+### Tech Stack
 
-| Metric | Details |
-|----------|----------|
-| Stack | HTML, Tailwind CSS, Node.js, MySQL |
-| Scale | Multi-Tenant SaaS Architecture |
-| Performance | Optimized CRUD and Reporting Workflows |
-| Security | Authentication & Role-Based Access |
-| Impact | Centralized workforce management |
-| Repository | https://github.com/RaghavKedia05/GICHRMS |
+**PHP 8.2 • CodeIgniter 4 • MySQL • HTML • Tailwind CSS • JavaScript • Composer • PHPUnit • Git**
 
 ### Highlights
 
-- Multi-tenant architecture supporting multiple organizations.
-- Employee attendance and payroll management.
-- Workforce performance tracking.
-- Sales and operational analytics integration.
-- Scalable backend architecture for future enterprise deployment.
+* 🏢 Multi-tenant architecture for organization-level data separation.
+* 🔐 Role-Based Access Control for controlled application access.
+* 👥 Employee and recruitment management workflows.
+* 🕐 Attendance and payroll management.
+* 📊 Business and operational management features.
+* 🧩 Built and maintained reusable backend modules.
+* 🧪 Used PHPUnit for application testing.
+* 🔄 Worked with Git-based development workflows.
+
+**Repository:**
+https://github.com/RaghavKedia05/GICHRMS
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>Language Translation & Summarization Model</b></summary>
+<summary><b>🌐 YouTube Summarizer AI</b></summary>
 
 ### Overview
 
-A transformer-based NLP system capable of translating English text into French and Hindi while simultaneously generating concise summaries.
+An AI-powered application that extracts transcripts from YouTube videos and uses generative AI to produce concise summaries.
 
-### Architecture
+### Tech Stack
 
-| Metric | Details |
-|----------|----------|
-| Stack | Python, Keras, Transformers, Scikit-Learn, Matplotlib, Jupyter Notebook |
-| Scale | Large Text Processing |
-| Performance | Optimized Transformer Pipeline |
-| Security | Local Inference Pipeline |
-| Impact | Multilingual Content Accessibility |
-| Repository | Academic Project |
+**Python • FastAPI • HTML • CSS • JavaScript • Gemini API • YouTube Transcript API**
 
 ### Highlights
 
-- Transformer-based architecture.
-- English to French translation.
-- English to Hindi translation.
-- Automatic text summarization.
-- NLP preprocessing and model evaluation pipeline.
+* 🎥 Extracts transcripts from YouTube videos.
+* 🤖 Uses Gemini for AI-powered summarization.
+* ⚡ FastAPI backend for processing requests.
+* 📝 Converts long-form video content into concise summaries.
+* 🌐 Simple web interface for interacting with the application.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📊 Solar Manufacturing Analytics Dashboard</b></summary>
+
+### Overview
+
+A Power BI analytics solution developed during my Data Analytics Internship to provide plant leadership with visibility into **production, rejection, losses, and operational KPIs**.
+
+### Tech Stack
+
+**Power BI • DAX • Excel • SAP Data • Data Modelling**
+
+### Highlights
+
+* 📊 Built and delivered **7 automated dashboards**.
+* 🏭 Covered production and rejection data across multiple manufacturing lines.
+* 📈 Created KPIs for production, rejection rate, monetary production and monetary loss.
+* 🔎 Implemented drill-through analysis for operational investigation.
+* 📱 Enabled mobile access for plant leadership and line managers.
+* ⚡ Reduced KPI reporting time from **1–2 hours to minutes**.
+* 🔄 Integrated data from MES exports and SAP-based sources.
 
 </details>
 
 ---
 
-# Experience
+# 💼 Experience
 
-### Software Development Intern
-**Global InfoCloud Pvt. Ltd.**  
+### 💻 Software Development Intern
+
+**Global InfoCloud Pvt. Ltd.**
 *May 2026 – Jul 2026*
 
-- Contributed to full-stack application development.
-- Built reusable frontend and backend modules.
-- Integrated APIs and optimized application performance.
-- Assisted in deployment and maintenance of production systems.
+* Worked on **GICHRMS**, a multi-tenant Human Resource Management System.
+* Developed backend functionality using **PHP and CodeIgniter 4**.
+* Worked with MySQL for application data management and tenant separation.
+* Implemented and maintained role-based access across application workflows.
+* Contributed to recruitment, employee, attendance, payroll and business modules.
+* Used Git, Composer and PHPUnit during development and testing.
 
-**Skills:** JavaScript • Node.js • Software Development • APIs • Git
+**Tech:** PHP • CodeIgniter 4 • MySQL • JavaScript • Tailwind CSS • Git • PHPUnit
 
 ---
 
-### Data Analytics Intern
-**Avaada Electro Pvt. Ltd.**  
+### 📊 Data Analytics Intern
+
+**Avaada Electro Pvt. Ltd.**
 *Dec 2025 – Jan 2026*
 
-- Performed exploratory data analysis on business datasets.
-- Created analytical reports and operational dashboards.
-- Assisted in data preprocessing and visualization workflows.
-- Generated business insights for decision-making.
+* Worked with production and rejection data from manufacturing operations.
+* Built and delivered **7 automated Power BI dashboards**.
+* Developed DAX measures and data models for operational KPIs.
+* Created production, rejection, loss and trend analysis.
+* Implemented drill-through and mobile reporting capabilities.
+* Reduced manual KPI reporting from **1–2 hours to minutes**.
 
-**Skills:** Python • Data Analytics • SQL • Excel • Power BI
-
----
-
-# Leadership
-
-### Head of Public Relations & Outreach
-**The Data Alchemists**
-
-- Leading outreach initiatives and industry collaborations.
-- Coordinating technical workshops, events, and bootcamps.
-- Managing communication with students, alumni, and professionals.
-- Supporting community growth and technical engagement initiatives.
+**Tech:** Power BI • DAX • Excel • Data Analytics • SAP Data
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
-<p align="center">
+| Achievement             | Details                                                        |
+| ----------------------- | -------------------------------------------------------------- |
+| 🥇 Academic Excellence  | Diamond Jubilee Award / Achiever's Scholarship — Branch Topper |
+| 🧠 Hackathon            | 3rd Place — ML Quest Hackathon, IEEE-SBM                       |
+| 🤖 ML Project           | Fake Job Classification using Machine Learning                 |
+| 📊 Industry Experience  | Software Development + Data Analytics Internships              |
+| 🏗️ Product Development | Built AI-powered applications and SaaS platforms               |
 
-| Recognition | Details |
-|------------|---------|
-| Academic Excellence | B.Tech Data Science Engineering @ MIT Manipal |
-| Technical Leadership | Head of Public Relations & Outreach at The Data Alchemists |
-| Industry Experience | Internships across Software Development and Data Analytics |
-| Product Development | Building AI and SaaS products from concept to deployment |
+---
+
+# 👥 Leadership
+
+### The Data Alchemists — Data Science & AI Club
+
+* Contributed to the growth and management of a **200+ member** technical community.
+* Worked on recruitment and administration initiatives.
+* Helped organize technical workshops and events.
+* Supported the **Summer Bootcamp 2025** covering AI/ML, DSA, analytics, development and deep learning/NLP.
+
+---
+
+# 📚 Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS%20%2B%20DeepLearning.AI-Generative%20AI%20with%20Large%20Language%20Models-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DeepLearning.AI-NLP%20in%20TensorFlow-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Data%20Visualization-7B68EE?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# Certifications
-
-### Microsoft
-
-![Microsoft](https://img.shields.io/badge/Microsoft-Data%20Visualization%20Specialization-8A2BE2?style=for-the-badge&logo=microsoft)
-
-### AWS + DeepLearning.AI
-
-![AWS](https://img.shields.io/badge/Generative%20AI%20with%20Large%20Language%20Models-AWS%20%2B%20DeepLearning.AI-6C63FF?style=for-the-badge)
-
-### DeepLearning.AI
-
-![DeepLearningAI](https://img.shields.io/badge/Natural%20Language%20Processing%20in%20TensorFlow-DeepLearning.AI-7B68EE?style=for-the-badge)
-
----
-
-# Coding Profiles
+# 🧩 Coding Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-  <img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank"/>
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
+
+<a href="https://leetcode.com/u/raghavbaba/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/RaghavKedia05">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaghavKedia05&show_icons=true&theme=midnight-purple&hide_border=true"/>
@@ -281,7 +324,7 @@ A transformer-based NLP system capable of translating English text into French a
 
 ---
 
-# GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RaghavKedia05&theme=discord&no-frame=true&row=1&column=7"/>
@@ -289,7 +332,7 @@ A transformer-based NLP system capable of translating English text into French a
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavKedia05&theme=react-dark&hide_border=true"/>
@@ -297,7 +340,7 @@ A transformer-based NLP system capable of translating English text into French a
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -305,44 +348,61 @@ A transformer-based NLP system capable of translating English text into French a
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
+  - Data Structures & Algorithms
   - System Design
+  - Machine Learning
   - Large Language Models
-  - Cloud Architecture
+  - Cloud Technologies
 
 Building:
-  - AI Trading Agent
-  - Multi-Tenant HRMS SaaS Platform
+  - AI-powered Applications
   - Full Stack Web Applications
+  - SaaS Platforms
+  - Data Analytics Solutions
 
 Exploring:
   - Agentic AI
-  - Reinforcement Learning
   - MLOps
+  - Generative AI
+  - Scalable Backend Systems
 
 Open_To:
-  - Software Engineering Roles
-  - AI/ML Engineering Roles
-  - Full Stack Development Opportunities
-  - Open Source Contributions
+  - Software Engineering Opportunities
+  - AI/ML Engineering Opportunities
+  - Data Analytics Opportunities
+  - Full Stack Development
+  - Open Source Collaborations
 ```
 
 ---
 
-# Connect
+# 📫 Connect With Me
 
-- Gmail: raghavkedia2205@gmail.com
-- LinkedIn: https://linkedin.com/in/raghav-kedia-
-- GitHub: https://github.com/RaghavKedia05
+<p align="center">
+
+<a href="mailto:raghavkedia2205@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-raghavkedia2205%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raghav-kedia-/">
+<img src="https://img.shields.io/badge/LinkedIn-Raghav%20Kedia-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/RaghavKedia05">
+<img src="https://img.shields.io/badge/GitHub-RaghavKedia05-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-# Quote
+# 💡 Quote
 
-> Building intelligent products where AI, software engineering, and real-world impact intersect.
+> **Building intelligent products where AI, software engineering, and real-world impact intersect.**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=140&section=footer"/>
