@@ -6,7 +6,7 @@
 
 Python · SQL · Power BI · Practical machine learning
 
-[GitHub](https://github.com/RaghavKedia05) · [LinkedIn](https://linkedin.com/in/raghav-kedia-) · [LeetCode](https://leetcode.com/u/raghavbaba/)
+· [LinkedIn](https://linkedin.com/in/raghav-kedia-) 
 
 </div>
 
@@ -83,6 +83,6 @@ Contributed to a multi-tenant HRMS using PHP, CodeIgniter, and MySQL, including 
 
 Interested in discussing analytics, applied AI, and software projects.
 
-**[LinkedIn](https://linkedin.com/in/raghav-kedia-) · [LeetCode](https://leetcode.com/u/raghavbaba/) · [GitHub](https://github.com/RaghavKedia05)**
+**[LinkedIn](https://linkedin.com/in/raghav-kedia-) **
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,60:0d1b4b,100:164e63&amp;height=100&amp;section=footer" alt="Navy and cyan wave footer" width="100%" />
